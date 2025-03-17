@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá! Eu sou Luidy 👋
 
-<!--
-**Luidy10/Luidy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, experimentos e aprendizados enquanto evoluo como desenvolvedor.
 
-Here are some ideas to get you started:
+### 🌟 Sobre Mim
+- 🎓 Estudante do Colégio Algustos, cursando Técnico em Desenvolvimento de Sistemas
+- 🎨 Aprendendo HTML e CSS
+- 📝 Sempre buscando aprender mais sobre tecnologia
+- 🏠 Moro em Sabará
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias & Ferramentas
+- **Linguagens**: HTML, CSS
+- **Aprendendo**: JavaScript, Git
+
+### ✨ Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luidy&show_icons=true&theme=dracula)
+
+### 💌 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-usuario)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/seu-usuario)
+
+Vamos construir algo incrível juntos! 🚀
